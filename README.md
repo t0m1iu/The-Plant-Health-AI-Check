@@ -32,11 +32,11 @@ A healthy leaf generally has an even green color and a fresh appearance.
 
 Here are screenshots showing the Plant Health Check AI running on the NVIDIA Jetson Orin Nano.
 
-![Plant Health AI Screenshot 1](screenshots/plant-health-1.png)
+<img width="2560" height="1600" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/9104bbbb-dc02-4661-98a3-c406bea7c51c" />
 
-![Plant Health AI Screenshot 2](screenshots/plant-health-2.png)
 
-![Plant Health AI Screenshot 3](screenshots/plant-health-3.png)
+<img width="2560" height="1600" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/a8a1b069-4d61-4083-b9ba-9394320b00e9" />
+
 
 ### 🎥 Project Demo Video
 
