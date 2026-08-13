@@ -1,0 +1,13 @@
+# Datasets - do not upload image files
+dataset/
+!dataset/README.md
+
+# Personal test images
+my_leaf*.jpg
+my_leaf*.jpeg
+my_leaf*.png
+
+# Python
+__pycache__/
+*.pyc
+*.log
