@@ -26,6 +26,24 @@ A healthy leaf generally has an even green color and a fresh appearance.
 
 > ⚠️ Note: This is a two-class image classifier. It does not identify the exact disease and may not detect very small early-stage symptoms.
 
+## 📸 Project Demo
+
+### 🖼️ Project Screenshots
+
+Here are screenshots showing the Plant Health Check AI running on the NVIDIA Jetson Orin Nano.
+
+![Plant Health AI Screenshot 1](screenshots/plant-health-1.png)
+
+![Plant Health AI Screenshot 2](screenshots/plant-health-2.png)
+
+![Plant Health AI Screenshot 3](screenshots/plant-health-3.png)
+
+### 🎥 Project Demo Video
+
+[▶️ Watch the Plant Health AI Demo Video](https://drive.google.com/file/d/1NfCn8E1BQCwIiFXmUJelmhrzyfaomK9H/view?usp=sharing)
+
+---
+
 ## 🤖 AI Model
 
 This project uses ResNet-18 with transfer learning.
